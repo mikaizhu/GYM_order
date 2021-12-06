@@ -46,7 +46,7 @@ class GYM:
         logInfo_['captchaResponse'] = verify_code
         return logInfo_
 
-username = '2070436044'
-password = '12180030'
+username = 'xxxxx'
+password = 'xxxxx'
 gym = GYM(username, password)
 gym.login()
